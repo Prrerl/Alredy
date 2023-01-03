@@ -1,0 +1,15 @@
+D:\GITREPOSITORI\GeekBrains\HTML\bin\Debug\net6.0\HTML.exe
+D:\GITREPOSITORI\GeekBrains\HTML\bin\Debug\net6.0\HTML.deps.json
+D:\GITREPOSITORI\GeekBrains\HTML\bin\Debug\net6.0\HTML.runtimeconfig.json
+D:\GITREPOSITORI\GeekBrains\HTML\bin\Debug\net6.0\HTML.dll
+D:\GITREPOSITORI\GeekBrains\HTML\bin\Debug\net6.0\HTML.pdb
+D:\GITREPOSITORI\GeekBrains\HTML\obj\Debug\net6.0\HTML.csproj.AssemblyReference.cache
+D:\GITREPOSITORI\GeekBrains\HTML\obj\Debug\net6.0\HTML.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITREPOSITORI\GeekBrains\HTML\obj\Debug\net6.0\HTML.AssemblyInfoInputs.cache
+D:\GITREPOSITORI\GeekBrains\HTML\obj\Debug\net6.0\HTML.AssemblyInfo.cs
+D:\GITREPOSITORI\GeekBrains\HTML\obj\Debug\net6.0\HTML.csproj.CoreCompileInputs.cache
+D:\GITREPOSITORI\GeekBrains\HTML\obj\Debug\net6.0\HTML.dll
+D:\GITREPOSITORI\GeekBrains\HTML\obj\Debug\net6.0\refint\HTML.dll
+D:\GITREPOSITORI\GeekBrains\HTML\obj\Debug\net6.0\HTML.pdb
+D:\GITREPOSITORI\GeekBrains\HTML\obj\Debug\net6.0\HTML.genruntimeconfig.cache
+D:\GITREPOSITORI\GeekBrains\HTML\obj\Debug\net6.0\ref\HTML.dll
